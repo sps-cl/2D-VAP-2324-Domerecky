@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Samostatná práce</title>
+    <link rel="logo" href="logo.png">
+    <link rel="stylesheet" href="styly.css">
+</head>
+    
+<body>
+    <h1>Filip Domerecký</h1>
+    <p><strong>Klokan velký </strong><em>(Macropus fuliginosus)</em>, známý také jako <sub>klokan</sub> <sup>západní</sup>, je druh statného klokana, který představuje jednoho z největší australských vačnatců. Od úzce příbuzného klokana obrovského se liší především svým hnědým zbarvením srsti.</p>
+    <ol type="i">
+        <li>pondělí</li>
+        <li>úterý</li>
+        <li>středa</li>
+    </ol>
+    <ul>
+        <li>srpen</li>
+        <li>listopad</li>
+        <li>prosinec</li>
+    </ul>
+    <nav>
+        <a href="index.html">Domů</a>
+        <a href="obrazky.html">Obrázky</a>
+    </nav>
+
+    <form action="data.html" method="get">
+        <table>
+            <thead>
+                <tr>
+                    <th colspan="2">registrace</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Jméno:</td>
+                    <td><input id="jmeno" type="text" name="jmeno" required placeholder="jméno a příjmení"></td>
+                </tr>
+                <tr>
+                    <td>Heslo:</td>
+                    <td><input id="heslo" type="password" name="heslo" required></td>
+                </tr>
+                <tr>
+                    <td>Věk:</td>
+                    <td><input id="vek" type="number" name="vek" required min="0" max="100" step="1"></td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td><input id="emal" type="text" name="email" required placeholder="1234@gmail.com"></td>
+                </tr>
+                <tr>
+                    <td>Student:</td>
+                    <td><input id="student" type="checkbox" name="student" value="true"></td>
+                </tr>
+                <tr>
+                    <td>Pohlaví:</td>
+                    <td><div id="pohlaví">
+                        <label for="muz">Muž</label>
+                        <input id="muz" type="radio" name="pohlaví" value="muz">
+                        <label for="zena">Žena</label>
+                        <input id="zena" type="radio" name="pohlaví" value="zena">
+                    </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Vzdělání:</td>
+                    <td><select name="vzdelani" id="vzdelani">
+                        <option value="ZS">základní škola</option>
+                        <option value="SS">střední škola</option>
+                        <option value="VS">vysoká škola</option>
+                        <option value="Bk">bakalář</option>
+                        <option value="Mg">magistr</option>
+                    </select></td>
+                </tr>
+            </tbody>
+        </table>
+        <br>
+        <input type="submit" value="zaregistrovat">
+    </form>
+
+</body>
+</html>
