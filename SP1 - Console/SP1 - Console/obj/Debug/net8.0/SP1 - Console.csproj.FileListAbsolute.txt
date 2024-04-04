@@ -1,0 +1,14 @@
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\bin\Debug\net8.0\SP1 - Console.exe
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\bin\Debug\net8.0\SP1 - Console.deps.json
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\bin\Debug\net8.0\SP1 - Console.runtimeconfig.json
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\bin\Debug\net8.0\SP1 - Console.dll
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\bin\Debug\net8.0\SP1 - Console.pdb
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\SP1 - Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\SP1 - Console.AssemblyInfoInputs.cache
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\SP1 - Console.AssemblyInfo.cs
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\SP1 - Console.csproj.CoreCompileInputs.cache
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\SP1 - Console.dll
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\refint\SP1 - Console.dll
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\SP1 - Console.pdb
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\SP1 - Console.genruntimeconfig.cache
+C:\Users\filip\source\repos\SP1 - Console\SP1 - Console\obj\Debug\net8.0\ref\SP1 - Console.dll
