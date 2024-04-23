@@ -1,0 +1,6 @@
+R:\VAP\Console2\Datove_struktury\Datove_struktury\bin\Debug\Datove_struktury.exe.config
+R:\VAP\Console2\Datove_struktury\Datove_struktury\bin\Debug\Datove_struktury.exe
+R:\VAP\Console2\Datove_struktury\Datove_struktury\bin\Debug\Datove_struktury.pdb
+R:\VAP\Console2\Datove_struktury\Datove_struktury\obj\Debug\Datove_struktury.csprojResolveAssemblyReference.cache
+R:\VAP\Console2\Datove_struktury\Datove_struktury\obj\Debug\Datove_struktury.exe
+R:\VAP\Console2\Datove_struktury\Datove_struktury\obj\Debug\Datove_struktury.pdb
